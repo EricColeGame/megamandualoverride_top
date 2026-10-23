@@ -1,1 +1,460 @@
-{}
+{
+  "site": {
+    "name": "Mega Man Dual Override Wiki",
+    "shortName": "Mega Man Dual Override",
+    "tagline": "ガイド、ボス、カスタムチップ、対応機種",
+    "description": "Mega Man: Dual Overrideのガイド、ゲームシステム、ロボットマスター、カスタムチップ、プレイアブルキャラクター、トレーラー、対応機種、最新の公式情報を紹介します。",
+    "legalNotice": "非公式のファンwikiです。プレイヤーがプレイヤーのために制作しています。"
+  },
+  "nav": {
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える",
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "mechanics": "システム",
+    "modes": "モード",
+    "media": "メディア",
+    "community": "コミュニティ",
+    "faq": "FAQ"
+  },
+  "home": {
+    "meta": {
+      "title": "Mega Man Dual Override Wiki - ガイドとボス",
+      "description": "Mega Man: Dual Overrideのガイド、ゲームシステム、ロボットマスター、カスタムチップ、プレイアブルキャラクター、トレーラー、対応機種、最新の公式情報を紹介します。"
+    },
+    "hero": {
+      "eyebrow": "クラシックな横スクロールアクション",
+      "title": "Mega Man Dual Override Wiki",
+      "description": "Mega Man: Dual Overrideのガイド、ゲームシステム、ロボットマスター、カスタムチップ、プレイアブルキャラクター、トレーラー、対応機種、最新の公式情報を紹介します。",
+      "stats": [
+        "2027年春 発売予定",
+        "プレイアブルキャラクター2人",
+        "カスタムチップ50種以上",
+        "新ロボットマスター8体"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steamストア",
+      "tertiaryCta": "公式ゲームページ",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新情報",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Mega Man Dual Overrideの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ロックマンかブルースを選び、チップ画面を学び、安全な最初の装備で序盤ステージを突破します。"
+        },
+        {
+          "number": "2",
+          "title": "最初のボスガイド",
+          "description": "序盤の巨大ロボット戦を学び、第2エリアで待つロボットマスターのレプリカに備えます。"
+        },
+        {
+          "number": "3",
+          "title": "カスタムチップ",
+          "description": "ステージ開始前にアタック、ディフェンス、ラッシュから選び、危険に合わせてチップを切り替えます。"
+        },
+        {
+          "number": "4",
+          "title": "オーバーライドのタイミング",
+          "description": "ショルダーボタンのパワー増幅をボスへの集中攻撃に使い、弱体化した回復時間を生き延びましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "カスタムチップ",
+        "ボス一覧",
+        "発売日"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "ヒーローを選び、最初のチップ構成を組み、難易度が上がる前に戦闘のリズムを身につけましょう。",
+          "href": "/guide/mega-man-dual-override-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "発売日",
+          "description": "2027年春の発売時期、確定しているSteam版、現在の対応機種情報を確認しましょう。",
+          "href": "/guide/mega-man-dual-override-release-date"
+        },
+        {
+          "badge": "キャラクター",
+          "title": "プレイアブルキャラクター",
+          "description": "ロックマンとブルースを、戦闘スタイル、ステージ攻略、やり込み要素の面で比較します。",
+          "href": "/characters/mega-man-dual-override-playable-characters"
+        },
+        {
+          "badge": "システム",
+          "title": "カスタムチップ",
+          "description": "ステージ開始前に攻撃、防御、ラッシュ移動のいずれかを軸に装備を組みます。",
+          "href": "/mechanics/mega-man-dual-override-custom-chips"
+        },
+        {
+          "badge": "ボス",
+          "title": "ボス一覧",
+          "description": "公開されたロボットマスター、そのステージテーマ、攻撃パターン、入手できる武器を追いましょう。",
+          "href": "/guide/mega-man-dual-override-all-bosses"
+        },
+        {
+          "badge": "人気",
+          "title": "オーバーライドシステム",
+          "description": "リミッター解除のタイミングと、弱体化した回復時間を生き延びる方法を学びます。",
+          "href": "/mechanics/mega-man-dual-override-override-system"
+        },
+        {
+          "badge": "メディア",
+          "title": "トレーラー解説",
+          "description": "Gamescom 2026の映像、トゥインクルガールの公開、新スーツ、ブルースのキービジュアルを振り返ります。",
+          "href": "/media/mega-man-dual-override-trailer"
+        },
+        {
+          "badge": "ガイド",
+          "title": "対応機種",
+          "description": "確定しているPC/Steam版、Steam Deckの対応状況、コンソール版の発表を確認しましょう。",
+          "href": "/guide/mega-man-dual-override-platforms"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Mega Man Dual Overrideとは？",
+      "paragraphs": [
+        "Mega Man Dual Overrideは、クラシックなMega ManシリーズにおけるCapcomの次期横スクロールアクションです。2027年春に登場予定で、ロックマンとブルースが、展示会の失敗に端を発するロボットの反乱に立ち向かいます。両ヒーローは同じステージ構成ながら異なる戦闘スタイルを提供します。",
+        "プレイヤーはブルーボンバーのチャージバスターと特殊武器に、ブルースの素早くシールド重視の戦い方を組み合わせられます。ステージ開始前のチップ装備がプレイを変え、オーバーライドシステムは一時的なパワー増幅と引き換えに脆弱な回復期間を生みます。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Capcom"
+        },
+        {
+          "label": "販売",
+          "value": "Capcom"
+        },
+        {
+          "label": "発売",
+          "value": "2027年春"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC（Steam）"
+        },
+        {
+          "label": "ジャンル",
+          "value": "アクション"
+        },
+        {
+          "label": "プレイアブルヒーロー",
+          "value": "2"
+        },
+        {
+          "label": "カスタムチップ",
+          "value": "50+"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Mega Man Dual Override Wikiを探索",
+      "description": "発売情報、初心者戦略、プレイアブルヒーロー、カスタムチップ、ロボットマスター、オーバーライドのタイミング、装備、公式メディアを扱うMega Man Dual Overrideガイドで、すべてのプレイを計画しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Mega Man Dual Overrideの発売日と対応機種",
+          "description": "Mega Man Dual Overrideの2027年春の発売時期、確定しているSteam版、対応機種、発売準備の詳細を追いましょう。",
+          "href": "/guide/mega-man-dual-override-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "発売",
+              "detail": "CapcomはMega Man Dual Overrideの発売時期を2027年春に設定しています。"
+            },
+            {
+              "label": "対応機種",
+              "detail": "確定している販売先はPC版Steamで、公式ゲームページではウィッシュリスト登録を受け付けています。"
+            },
+            {
+              "label": "発売",
+              "detail": "2027年の発売は、Mega Manシリーズ40周年記念作品となります。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Mega Man Dual Overrideゲームプレイガイド",
+          "description": "横スクロールの戦闘ループ、ステージ構成、ヒーローごとの違い、初回プレイの優先事項をMega Man Dual Overrideで学びます。",
+          "href": "/guide/mega-man-dual-override-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まずロックマンでチャージバスターのリズムを覚え、その後で高度な移動を加えましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "序盤エリアを突破し、巨大ロボットのボスを研究してから、自分に合ったステージへ進みます。"
+            },
+            {
+              "label": "3",
+              "detail": "各ステージの前にチップ構成を選び、防御や機動力が必要な場面で入れ替えます。"
+            },
+            {
+              "label": "4",
+              "detail": "クリア済みステージでオーバーライドのタイミングを練習し、ボス戦の途中で回復期間に入らないようにしましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mega Man Dual Overrideキャラクターガイド",
+          "description": "ロックマンとブルースの異なる戦闘スタイルを比較し、2人のヒーローで進める最適な計画を立てます。",
+          "href": "/characters/mega-man-dual-override-playable-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mega Man",
+              "detail": "ブルーボンバーはチャージショットと慣れ親しんだラン＆ガンのリズムで最初のプレイを支えます。"
+            },
+            {
+              "label": "Proto Man",
+              "detail": "放浪の戦士は、自信と攻めを報いる独自の戦闘スタイルを提供します。"
+            },
+            {
+              "label": "2周プレイ",
+              "detail": "まずロックマンで各ステージをクリアし、レイアウトを覚えたらブルースで再挑戦しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Mega Man Dual Overrideカスタムチップガイド",
+          "description": "ステージ開始前にアタック、ディフェンス、ラッシュから装備を選び、待ち受ける危険に合わせてチップを組み合わせます。",
+          "href": "/mechanics/mega-man-dual-override-custom-chips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ATTACK",
+              "detail": "チャージバスターを2連射し、ボス攻略とステージ高速クリアを狙います。"
+            },
+            {
+              "label": "DEFENSE",
+              "detail": "シールドとEタンクで、新しいステージをより安全に攻略できます。"
+            },
+            {
+              "label": "RUSH",
+              "detail": "ラッシュをバネとして呼び出し、高い足場、隠し要素、別ルートへ到達します。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Mega Man Dual Overrideのボスとロボットマスター",
+          "description": "トゥインクルガール、ジェットマン、そして増え続けるロボットマスターの一覧を紹介し、各ステージのパターンと武器に備えます。",
+          "href": "/guide/mega-man-dual-override-all-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トゥインクル",
+              "detail": "トゥインクルガールは3段階のパフォーマンスを、広範囲を封じる花火満載のボス戦に変えます。"
+            },
+            {
+              "label": "Jet Man",
+              "detail": "ジェットマンはアクロバティックな飛行部隊と輸送機を率い、空中戦と縦方向の圧力を生み出します。"
+            },
+            {
+              "label": "ボス記録",
+              "detail": "攻撃パターンを記録し、新しく手に入れた特殊武器をクリア済みのすべてのボスに試しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Mega Man Dual Overrideオーバーライドシステムガイド",
+          "description": "オーバーライドを発動するタイミング、パワー増幅が戦闘をどう変えるか、危険なバーンアウト時間の管理法を学びます。",
+          "href": "/mechanics/mega-man-dual-override-override-system",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まず周囲の敵を片付けて、強化した一撃を本当に重要な目標に集中させます。"
+            },
+            {
+              "label": "2",
+              "detail": "ボスの弱点が露出した瞬間や、敵が密集した部屋をすぐに制圧したいときにオーバーライドを発動します。"
+            },
+            {
+              "label": "3",
+              "detail": "バーンアウト中は物陰に下がり、チャージショットが戻るまで位置取りで耐えます。"
+            },
+            {
+              "label": "4",
+              "detail": "ボスの体力が少なく、回復のリスクがないときまで強化を温存し、とどめに使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mega Man Dual Overrideティアリストと最強ビルド",
+          "description": "各ステージに実用的なティア基準を設け、ヒーロー選択、チップ装備、ボス対策ビルドを計画します。",
+          "href": "/mechanics/mega-man-dual-override-custom-chips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "オーバーライドとアタックチップのバースト時間を組み合わせ、ボス戦とステージの速攻クリアを狙います。"
+            },
+            {
+              "label": "A",
+              "detail": "初挑戦や新ステージ、生存重視のプレイに適したディフェンスチップ構成。"
+            },
+            {
+              "label": "B",
+              "detail": "ラッシュチップによる移動で、縦ルート、隠し要素、別ルートへ進めます。"
+            },
+            {
+              "label": "C",
+              "detail": "ステージの危険を無視したり、オーバーライドを早すぎるタイミングで使う未準備の装備。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Mega Man Dual Overrideのニュースとトレーラー",
+          "description": "Mega Man Dual Overrideの公式発表トレーラー、ゲームプレイ映像、ロボットマスター発表、発売情報を追いましょう。",
+          "href": "/media/mega-man-dual-override-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "発表",
+              "detail": "Gamescom 2026のトレーラーではトゥインクルガールが登場し、新スーツが披露され、最後にブルースが映されました。"
+            },
+            {
+              "label": "トレーラー",
+              "detail": "ゲームプレイ映像で、横スクロールのラン＆ガンとロックマンのチャージバスターを確認できます。"
+            },
+            {
+              "label": "2027",
+              "detail": "公式エンドカードでは発売時期を2027年春のまま示し、プレイヤーをSteamページへ案内しています。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Mega Man Dual Override FAQ",
+      "description": "Mega Man Dual Overrideの発売時期、ヒーロー、カスタムチップ、オーバーライド戦闘についての簡潔な回答。",
+      "items": [
+        {
+          "question": "Mega Man Dual Overrideはいつ発売されますか？",
+          "answer": "Mega Man Dual Overrideは2027年春発売予定です。確定している販売先はPC版Steamで、公式ゲームページではウィッシュリスト登録を受け付けています。"
+        },
+        {
+          "question": "Mega Man Dual Overrideのプレイアブルキャラクターは誰ですか？",
+          "answer": "Mega Man Dual Overrideには、ロックマンとブルースという2人のプレイアブルヒーローが登場します。それぞれ戦闘スタイルが異なり、どのステージもどちらのキャラクターでも攻略できます。"
+        },
+        {
+          "question": "Mega Man Dual Overrideのカスタムチップとは？",
+          "answer": "Mega Man Dual Overrideではステージ開始前にチップを装備します。アタックチップはチャージバスターを2倍にし、ディフェンスチップはシールドとEタンクを追加し、ラッシュチップはバネを使った移動を可能にします。"
+        },
+        {
+          "question": "Mega Man Dual Overrideのオーバーライドシステムはどう動く？",
+          "answer": "Mega Man Dual Overrideでは、ヒーローがリミッターを解除して一時的なパワー増幅を得られます。オーバーライド終了後は弱体化した回復期間に入るため、純粋なダメージ量よりもタイミングが重要です。"
+        },
+        {
+          "question": "初心者はMega Man Dual Overrideでどのヒーローを選ぶべきですか？",
+          "answer": "チャージバスターの安全性を重視するならロックマンでMega Man Dual Overrideを始め、レイアウトを覚えて攻めの戦闘スタイルを求めたらブルースで再挑戦しましょう。"
+        },
+        {
+          "question": "Mega Man Dual Overrideのボスガイドはどこにありますか？",
+          "answer": "Mega Man Dual Override wikiでは、ロボットマスターのプロフィール、ステージパターン、ボス対策を1つのガイドハブにまとめ、トゥインクルガールとジェットマンも掲載しています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Mega Man Dual Overrideを極める準備はできましたか？",
+      "description": "ロックマンとブルースのファンのために作られた、無料で最新のガイドで、すべてのステージ、ボス、カスタムチップ、プレイアブルキャラクターを探索しましょう。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Mega Man Dual Overrideガイド",
+    "overviewDescription": "Mega Man Dual Overrideの発売情報、対応機種、価格、体験版、初心者向けのコツ、ボス攻略ルート、実績、ストーリーガイドから始めましょう。"
+  },
+  "characters": {
+    "overviewTitle": "Mega Man Dual Overrideのキャラクター",
+    "overviewDescription": "ロックマン、ブルース、ジェットマン、タンクマン、新たに公開されたロボットマスターを含むMega Man Dual Overrideの顔ぶれを紹介します。"
+  },
+  "mechanics": {
+    "overviewTitle": "Mega Man Dual Overrideのシステム",
+    "overviewDescription": "オーバーライドシステム、カスタムチップ、特殊武器、ステージ進行、ゲームプレイの変化が毎回のプレイにどう影響するかを学びます。"
+  },
+  "modes": {
+    "overviewTitle": "Mega Man Dual Overrideのゲームモード",
+    "overviewDescription": "協力プレイ、マルチプレイ、ブルース編、体験版の内容をMega Man Dual Overrideで比較します。"
+  },
+  "media": {
+    "overviewTitle": "Mega Man Dual Overrideメディア",
+    "overviewDescription": "Mega Man Dual Overrideのトレーラーとゲームプレイ映像を見て、サウンドトラックと声優陣を確認しましょう。"
+  },
+  "community": {
+    "overviewTitle": "Mega Man Dual Overrideコミュニティ",
+    "overviewDescription": "Mega Man Dual OverrideのRedditでの議論と、ロボットマスターデザインコンテストの最終候補・受賞作を追いましょう。"
+  },
+  "faq": {
+    "overviewTitle": "Mega Man Dual Override FAQ",
+    "overviewDescription": "Mega Man Dual Overrideのリブートに関する疑問、Mega Man 12との関係、パッケージ版、予約情報への回答をまとめました。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "noActiveCodes": "現在利用できるコードはありません",
+    "checkBackSoon": "新しいコードは近日公開予定です",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Steamでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Mega Man Dual Override Wiki",
+    "about": "Mega Man Dual Override Wikiは、ステージ、ロボットマスター、カスタムチップ、プレイアブルキャラクター、対応機種、そして新規・ベテランプレイヤー双方に役立つ基礎知識を扱う、ファン制作の独立ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Mega Man Dual Override Wiki。Capcomとは提携していません。",
+    "description": "Mega Man: Dual Overrideのファンメイドガイド。2027年春登場予定。ボス、カスタムチップ、対応機種を紹介します。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialSite": "公式ゲームページ",
+    "officialReddit": "Mega Man Redditコミュニティ",
+    "officialYoutube": "Capcom USA YouTube",
+    "vvBuilder": "カスタムチッププランナー",
+    "beginnerGuide": "初心者ガイド",
+    "characterGuides": "キャラクターガイド",
+    "bossGuides": "ボスガイド",
+    "mechanicsGuide": "システムガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

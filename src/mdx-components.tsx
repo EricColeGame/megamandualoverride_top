@@ -5,7 +5,7 @@ function toHeadingId(children: React.ReactNode): string {
   const text = String(children).replace(/<[^>]*>/g, "").trim();
   return text
     .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, "")
+    .replace(/[^\p{L}\p{N}\s-]/gu, "")
     .replace(/\s+/g, "-")
     .replace(/-+/g, "-")
     .replace(/^-|-$/g, "");

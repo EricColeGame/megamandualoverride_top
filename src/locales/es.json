@@ -1,1 +1,460 @@
-{}
+{
+  "site": {
+    "name": "Mega Man Dual Override Wiki",
+    "shortName": "Mega Man Dual Override",
+    "tagline": "Guías, jefes, chips personalizados y plataformas",
+    "description": "Explora las guías, sistemas de juego, Robot Masters, chips personalizados, personajes jugables, tráilers, plataformas y las últimas noticias oficiales de Mega Man: Dual Override.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "mechanics": "Mecánicas",
+    "modes": "Modos",
+    "media": "Multimedia",
+    "community": "Comunidad",
+    "faq": "FAQ"
+  },
+  "home": {
+    "meta": {
+      "title": "Mega Man Dual Override Wiki - Guías y jefes",
+      "description": "Explora las guías, sistemas de juego, Robot Masters, chips personalizados, personajes jugables, tráilers, plataformas y las últimas noticias oficiales de Mega Man: Dual Override."
+    },
+    "hero": {
+      "eyebrow": "Plataformas de acción de desplazamiento lateral clásico",
+      "title": "Mega Man Dual Override Wiki",
+      "description": "Explora las guías, sistemas de juego, Robot Masters, chips personalizados, personajes jugables, tráilers, plataformas y las últimas noticias oficiales de Mega Man: Dual Override.",
+      "stats": [
+        "Lanzamiento en primavera de 2027",
+        "2 personajes jugables",
+        "Más de 50 chips personalizados",
+        "8 nuevos Robot Masters"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Tienda de Steam",
+      "tertiaryCta": "Página oficial del juego",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Mega Man Dual Override",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Elige a Mega Man o Proto Man, aprende la pantalla de chips y supera las primeras fases con una configuración inicial segura."
+        },
+        {
+          "number": "2",
+          "title": "Guía del primer jefe",
+          "description": "Aprende el combate inicial contra el robot gigante y prepárate para el Robot Master réplica que espera en la segunda zona."
+        },
+        {
+          "number": "3",
+          "title": "Chips personalizados",
+          "description": "Elige Ataque, Defensa o Rush antes de una fase y adapta cada chip a los peligros que te esperan."
+        },
+        {
+          "number": "4",
+          "title": "Momento de Override",
+          "description": "Usa el aumento de potencia del botón de hombro para ráfagas contra jefes y sobrevive después a la ventana de recuperación debilitada."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Chips personalizados",
+        "Todos los jefes",
+        "Fecha de lanzamiento"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Elige un héroe, prepara tu primer conjunto de chips y aprende el ritmo de combate antes de que suba la dificultad.",
+          "href": "/guide/mega-man-dual-override-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Fecha de lanzamiento",
+          "description": "Sigue la ventana de lanzamiento de primavera de 2027, el lanzamiento confirmado en Steam y los detalles actuales de plataformas.",
+          "href": "/guide/mega-man-dual-override-release-date"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Personajes jugables",
+          "description": "Compara a Mega Man y Proto Man en estilo de combate, enfoque de las fases y valor de rejugabilidad.",
+          "href": "/characters/mega-man-dual-override-playable-characters"
+        },
+        {
+          "badge": "Mecánicas",
+          "title": "Chips personalizados",
+          "description": "Planifica una configuración previa a la fase en torno al ataque, la defensa o la movilidad con Rush.",
+          "href": "/mechanics/mega-man-dual-override-custom-chips"
+        },
+        {
+          "badge": "Jefes",
+          "title": "Todos los jefes",
+          "description": "Sigue a los Robot Masters revelados, sus temas de fase, patrones de ataque y armas obtenidas.",
+          "href": "/guide/mega-man-dual-override-all-bosses"
+        },
+        {
+          "badge": "Popular",
+          "title": "Sistema Override",
+          "description": "Aprende cuándo liberar el limitador y cómo sobrevivir a la ventana de recuperación debilitada.",
+          "href": "/mechanics/mega-man-dual-override-override-system"
+        },
+        {
+          "badge": "Multimedia",
+          "title": "Análisis del tráiler",
+          "description": "Repasa las imágenes de Gamescom 2026, la revelación de Twinkle Girl, el nuevo traje y el arte clave de Proto Man.",
+          "href": "/media/mega-man-dual-override-trailer"
+        },
+        {
+          "badge": "Guía",
+          "title": "Plataformas",
+          "description": "Consulta el lanzamiento confirmado en PC y Steam, el estado en Steam Deck y los anuncios para consolas.",
+          "href": "/guide/mega-man-dual-override-platforms"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Mega Man Dual Override?",
+      "paragraphs": [
+        "Mega Man Dual Override es el próximo plataformas de acción de desplazamiento lateral de Capcom dentro de la clásica serie Mega Man. Previsto para la primavera de 2027, sigue a Mega Man y Proto Man frente a un levantamiento robótico vinculado a una exposición que salió mal, con un estilo de combate distinto para cada héroe en la misma lista de fases.",
+        "Los jugadores pueden combinar el buster cargado y las armas especiales del Bombardero Azul con el enfoque más rápido y centrado en el escudo de Proto Man. Antes de cada fase, una configuración de chips cambia la partida, mientras que el sistema Override intercambia un aumento temporal de potencia por un periodo de recuperación vulnerable."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Capcom"
+        },
+        {
+          "label": "Distribuidor",
+          "value": "Capcom"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "Primavera de 2027"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC mediante Steam"
+        },
+        {
+          "label": "Género",
+          "value": "Plataformas de acción"
+        },
+        {
+          "label": "Héroes jugables",
+          "value": "2"
+        },
+        {
+          "label": "Chips personalizados",
+          "value": "50+"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Mega Man Dual Override",
+      "description": "Planifica cada partida con las guías de Mega Man Dual Override sobre lanzamiento, estrategia para principiantes, héroes jugables, chips personalizados, Robot Masters, momento de Override, configuraciones y contenido oficial.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Fecha de lanzamiento y plataformas de Mega Man Dual Override",
+          "description": "Sigue la ventana de lanzamiento de primavera de 2027, el lanzamiento confirmado en Steam, el estado de las plataformas y los detalles de preparación de Mega Man Dual Override.",
+          "href": "/guide/mega-man-dual-override-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "Capcom ha fijado la ventana de lanzamiento de Mega Man Dual Override para la primavera de 2027."
+            },
+            {
+              "label": "Plataforma",
+              "detail": "La tienda confirmada es Steam en PC y la página oficial del juego ya permite añadirlo a la lista de deseos."
+            },
+            {
+              "label": "Lanzamiento",
+              "detail": "El lanzamiento de 2027 marca la entrega del 40.º aniversario de la serie Mega Man."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de jugabilidad de Mega Man Dual Override",
+          "description": "Aprende el bucle de combate de desplazamiento lateral, la estructura de las fases, las diferencias entre héroes y las prioridades de la primera sesión en Mega Man Dual Override.",
+          "href": "/guide/mega-man-dual-override-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza con Mega Man y aprende el ritmo del buster cargado antes de añadir movimientos avanzados."
+            },
+            {
+              "label": "2",
+              "detail": "Supera la zona inicial, estudia al jefe robot gigante y avanza hacia las fases que se ajusten a tu nivel de comodidad."
+            },
+            {
+              "label": "3",
+              "detail": "Elige una configuración de chips antes de cada fase y cámbiala cuando un peligro exija defensa o movilidad extra."
+            },
+            {
+              "label": "4",
+              "detail": "Practica el momento de Override en fases ya completadas para que la ventana de recuperación nunca te sorprenda durante un jefe."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de personajes de Mega Man Dual Override",
+          "description": "Compara a Mega Man y Proto Man, sus distintos estilos de combate y la mejor forma de planificar una partida con dos héroes.",
+          "href": "/characters/mega-man-dual-override-playable-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mega Man",
+              "detail": "El Bombardero Azul sostiene la primera partida con disparos cargados y un ritmo run-and-gun familiar."
+            },
+            {
+              "label": "Proto Man",
+              "detail": "El guerrero errante ofrece un estilo de combate propio pensado para jugar con confianza y agresividad."
+            },
+            {
+              "label": "Dos partidas",
+              "detail": "Completa cada fase primero con Mega Man y vuelve con Proto Man cuando ya conozcas los escenarios."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de chips personalizados de Mega Man Dual Override",
+          "description": "Prepara una configuración previa a la fase con Ataque, Defensa o Rush y adapta cada chip a los peligros que encontrarás.",
+          "href": "/mechanics/mega-man-dual-override-custom-chips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ATTACK",
+              "detail": "Duplica los disparos cargados del buster para partidas centradas en jefes y avances más rápidos."
+            },
+            {
+              "label": "DEFENSE",
+              "detail": "Un escudo y un E-Tank ofrecen una curva de aprendizaje más segura en las fases nuevas."
+            },
+            {
+              "label": "RUSH",
+              "detail": "Invoca a Rush como resorte para alcanzar repisas altas, secretos y rutas alternativas."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Jefes y Robot Masters de Mega Man Dual Override",
+          "description": "Conoce a Twinkle Girl, Jet Man y la creciente lista de Robot Masters, y prepárate para sus patrones de fase y armas.",
+          "href": "/guide/mega-man-dual-override-all-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Twinkle",
+              "detail": "Twinkle Girl convierte una actuación en tres actos en una lucha de jefes llena de fuegos artificiales y negación de zona."
+            },
+            {
+              "label": "Jet Man",
+              "detail": "Jet Man dirige un equipo de vuelo acrobático y un avión de carga, lo que crea fases aéreas y presión vertical."
+            },
+            {
+              "label": "Registro de jefes",
+              "detail": "Registra los patrones de ataque y prueba cada nueva arma especial contra todos los jefes ya derrotados."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía del sistema Override de Mega Man Dual Override",
+          "description": "Aprende cuándo activar Override, cómo el aumento de potencia cambia el combate y cómo gestionar la vulnerable ventana de agotamiento.",
+          "href": "/mechanics/mega-man-dual-override-override-system",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Elimina primero a los enemigos cercanos para que el estallido potenciado se concentre en el objetivo importante."
+            },
+            {
+              "label": "2",
+              "detail": "Activa Override durante la fase vulnerable de un jefe o cuando una sala llena de enemigos necesite control inmediato."
+            },
+            {
+              "label": "3",
+              "detail": "Durante el agotamiento, retrocede a cubierto y confía en tu posicionamiento hasta que vuelvan los disparos cargados."
+            },
+            {
+              "label": "4",
+              "detail": "Guarda el aumento para el golpe final cuando el jefe esté a punto de caer y la recuperación no entrañe riesgo."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tier list y mejores builds de Mega Man Dual Override",
+          "description": "Planifica la elección de héroe, las configuraciones de chips y las builds listas para jefes con un marco de niveles práctico para cada fase.",
+          "href": "/mechanics/mega-man-dual-override-custom-chips",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Override combinado con las ventanas de ráfaga del Chip de ataque para luchar contra jefes y completar fases con limpieza."
+            },
+            {
+              "label": "A",
+              "detail": "Configuraciones con Chip de defensa para primeros intentos, fases nuevas y partidas centradas en sobrevivir."
+            },
+            {
+              "label": "B",
+              "detail": "Movilidad con Chip de Rush para rutas verticales, secretos y caminos alternativos."
+            },
+            {
+              "label": "C",
+              "detail": "Configuraciones sin preparación que ignoran los peligros de la fase o gastan Override demasiado pronto."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Noticias y tráilers de Mega Man Dual Override",
+          "description": "Sigue los tráilers oficiales de presentación, las demostraciones de jugabilidad, los anuncios de Robot Masters y las novedades de lanzamiento de Mega Man Dual Override.",
+          "href": "/media/mega-man-dual-override-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Presentación",
+              "detail": "El tráiler de Gamescom 2026 presentó a Twinkle Girl, mostró un nuevo traje y terminó con Proto Man."
+            },
+            {
+              "label": "Tráiler",
+              "detail": "Las imágenes de jugabilidad confirman el bucle run-and-gun de desplazamiento lateral y el buster cargado de Mega Man."
+            },
+            {
+              "label": "2027",
+              "detail": "Las tarjetas finales oficiales mantienen la ventana de lanzamiento en primavera de 2027 y remiten a los jugadores a la página de Steam."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes de Mega Man Dual Override",
+      "description": "Respuestas rápidas sobre la fecha de lanzamiento, los héroes, los chips personalizados y el combate Override de Mega Man Dual Override.",
+      "items": [
+        {
+          "question": "¿Cuándo sale Mega Man Dual Override?",
+          "answer": "Mega Man Dual Override está previsto para la primavera de 2027. La tienda confirmada es Steam en PC y la página oficial del juego ya permite añadirlo a la lista de deseos."
+        },
+        {
+          "question": "¿Quiénes son los personajes jugables de Mega Man Dual Override?",
+          "answer": "Mega Man Dual Override incluye dos héroes jugables: Mega Man y Proto Man. Cada uno tiene un estilo de combate distinto y todas las fases pueden completarse con cualquiera de los dos."
+        },
+        {
+          "question": "¿Qué son los chips personalizados en Mega Man Dual Override?",
+          "answer": "Mega Man Dual Override usa una configuración de chips previa a la fase. El Chip de ataque duplica los disparos cargados del buster, el Chip de defensa añade un escudo y un E-Tank, y el Chip de Rush proporciona movilidad con resorte."
+        },
+        {
+          "question": "¿Cómo funciona el sistema Override en Mega Man Dual Override?",
+          "answer": "Mega Man Dual Override permite a un héroe liberar su limitador para obtener un aumento temporal de potencia. Cuando Override termina, el personaje entra en un periodo de recuperación debilitado, por lo que el momento importa más que el daño bruto."
+        },
+        {
+          "question": "¿Qué héroe deberían elegir los principiantes en Mega Man Dual Override?",
+          "answer": "Empieza Mega Man Dual Override con Mega Man por la seguridad de su buster cargado y repite las fases con Proto Man cuando conozcas los escenarios y busques un estilo más agresivo."
+        },
+        {
+          "question": "¿Dónde puedo encontrar guías de jefes de Mega Man Dual Override?",
+          "answer": "La wiki de Mega Man Dual Override organiza los perfiles de Robot Masters, los patrones de las fases y la preparación de jefes en un único centro de guías, con Twinkle Girl y Jet Man ya incluidos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Mega Man Dual Override?",
+      "description": "Explora cada fase, jefe, chip personalizado y personaje jugable con guías gratuitas y actualizadas para fans de Mega Man y Proto Man.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Mega Man Dual Override",
+    "overviewDescription": "Empieza con los detalles de lanzamiento, plataformas, precio, cobertura de la demo, consejos para principiantes, rutas de jefes, logros y guías de historia de Mega Man Dual Override."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Mega Man Dual Override",
+    "overviewDescription": "Conoce la plantilla de Mega Man Dual Override, incluidos Mega Man, Proto Man, Jet Man, Tank Man y los Robot Masters recién revelados."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Mega Man Dual Override",
+    "overviewDescription": "Descubre cómo el sistema Override, los chips personalizados, las armas especiales, la progresión por fases y los cambios de jugabilidad definen cada partida."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de Mega Man Dual Override",
+    "overviewDescription": "Compara las opciones de cooperativo, multijugador, la campaña de Proto Man y la jugabilidad de la demo en Mega Man Dual Override."
+  },
+  "media": {
+    "overviewTitle": "Multimedia de Mega Man Dual Override",
+    "overviewDescription": "Mira los tráilers y las imágenes de jugabilidad de Mega Man Dual Override, y explora la banda sonora y el reparto de voces."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Mega Man Dual Override",
+    "overviewDescription": "Sigue las conversaciones de Mega Man Dual Override en Reddit y a los finalistas y ganador del concurso de diseño de Robot Masters."
+  },
+  "faq": {
+    "overviewTitle": "Preguntas frecuentes de Mega Man Dual Override",
+    "overviewDescription": "Encuentra respuestas directas sobre el reinicio de Mega Man Dual Override, su relación con Mega Man 12, la edición física y los detalles de la reserva."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "noActiveCodes": "No hay códigos activos disponibles en este momento",
+    "checkBackSoon": "Vuelve pronto para ver nuevos códigos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Mega Man Dual Override Wiki",
+    "about": "La Wiki de Mega Man Dual Override es un centro de guías independiente creado por fans que cubre fases, Robot Masters, chips personalizados, personajes jugables, plataformas y conocimientos esenciales tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Mega Man Dual Override Wiki. No afiliado a Capcom.",
+    "description": "Guía creada por fans sobre Mega Man: Dual Override, que llegará en primavera de 2027. Explora jefes, chips personalizados y plataformas.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialSite": "Página oficial del juego",
+    "officialReddit": "Comunidad de Mega Man en Reddit",
+    "officialYoutube": "Capcom USA YouTube",
+    "vvBuilder": "Planificador de chips personalizados",
+    "beginnerGuide": "Guía para principiantes",
+    "characterGuides": "Guías de personajes",
+    "bossGuides": "Guía de jefes",
+    "mechanicsGuide": "Guía de mecánicas",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

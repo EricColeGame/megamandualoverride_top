@@ -96,7 +96,7 @@ function extractHeadings(mdxSource: string): Heading[] {
       const text = match[2].replace(/\{[^}]*\}/g, "").trim();
       const id = text
         .toLowerCase()
-        .replace(/[^a-z0-9\s-]/g, "")
+        .replace(/[^\p{L}\p{N}\s-]/gu, "")
         .replace(/\s+/g, "-")
         .replace(/-+/g, "-")
         .replace(/^-|-$/g, "");
@@ -257,14 +257,38 @@ const GROUP_TITLES_JA: Record<string, string> = {
   faq: "FAQ",
 };
 
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Guías",
+  characters: "Personajes",
+  mechanics: "Mecánicas",
+  modes: "Modos",
+  media: "Multimedia",
+  community: "Comunidad",
+  faq: "FAQ",
+};
+
+const GROUP_TITLES_DE: Record<string, string> = {
+  guide: "Guides",
+  characters: "Charaktere",
+  mechanics: "Mechaniken",
+  modes: "Modi",
+  media: "Medien",
+  community: "Community",
+  faq: "FAQ",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  de: "Übersicht",
 };
 
 // 分组排序顺序

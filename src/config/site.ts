@@ -35,6 +35,6 @@ export const siteConfig: SiteConfig = {
     reddit: "https://www.reddit.com/r/Megaman/",
     youtube: "https://www.youtube.com/@capcomusa",
   },
-  locales: ["en", "es", "pt", "de", "fr", "ja"],
+  locales: ["en", "ja", "es", "de"],
   defaultLocale: "en",
 };

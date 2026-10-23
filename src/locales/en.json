@@ -7,6 +7,8 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
     "guide": "Guide",
     "characters": "Characters",
     "mechanics": "Mechanics",
@@ -418,6 +420,8 @@
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
+    "noActiveCodes": "No active codes currently available",
+    "checkBackSoon": "Check back soon for new codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Steam",
