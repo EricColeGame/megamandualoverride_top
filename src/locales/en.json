@@ -6,7 +6,15 @@
     "description": "Explore Mega Man: Dual Override guides, gameplay systems, Robot Masters, Custom Chips, playable characters, trailers, platforms, and the latest official news.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "modes": "Modes",
+    "media": "Media",
+    "community": "Community",
+    "faq": "FAQ"
+  },
   "home": {
     "meta": {
       "title": "Mega Man Dual Override Wiki - Guides & Bosses",
@@ -379,7 +387,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Mega Man Dual Override Guides",
+    "overviewDescription": "Start with Mega Man Dual Override release details, platforms, pricing, demo coverage, beginner tips, boss routes, achievements, and story guides."
+  },
+  "characters": {
+    "overviewTitle": "Mega Man Dual Override Characters",
+    "overviewDescription": "Meet the Mega Man Dual Override roster, including Mega Man, Proto Man, Jet Man, Tank Man, and the newly revealed Robot Masters."
+  },
+  "mechanics": {
+    "overviewTitle": "Mega Man Dual Override Mechanics",
+    "overviewDescription": "Learn how the Override system, Custom Chips, Special Weapons, stage progression, and gameplay changes shape every run."
+  },
+  "modes": {
+    "overviewTitle": "Mega Man Dual Override Game Modes",
+    "overviewDescription": "Compare co-op, multiplayer, the Proto Man campaign, and demo gameplay options in Mega Man Dual Override."
+  },
+  "media": {
+    "overviewTitle": "Mega Man Dual Override Media",
+    "overviewDescription": "Watch Mega Man Dual Override trailers and gameplay footage, and explore the soundtrack and voice cast."
+  },
+  "community": {
+    "overviewTitle": "Mega Man Dual Override Community",
+    "overviewDescription": "Follow Mega Man Dual Override Reddit discussions and the Robot Master design contest finalists and winner."
+  },
+  "faq": {
+    "overviewTitle": "Mega Man Dual Override FAQ",
+    "overviewDescription": "Find direct answers about the Mega Man Dual Override reboot question, Mega Man 12 connection, physical release, and preorder details."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -412,9 +447,9 @@
     "officialYoutube": "Capcom USA YouTube",
     "vvBuilder": "Custom Chip Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Character Guides",
+    "bossGuides": "Boss Guide",
+    "mechanicsGuide": "Mechanics Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
